@@ -1,0 +1,3 @@
+Link Wokwi: https://wokwi.com/projects/399147966853279745
+Link Youtube: https://youtu.be/9Dz3j6G3Igo
+Link Adafruit: https://io.adafruit.com/flejzad/dashboards/esp32-adafruit-mqtt-garden
